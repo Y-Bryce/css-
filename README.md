@@ -10,4 +10,4 @@
 
 ![效果图](http://upload-images.jianshu.io/upload_images/2895496-7ae6d29d8678843f.gif?imageMogr2/auto-orient/strip)
 
-想要了解更多请点击[简书：Css3Loading](http://www.jianshu.com/p/f0b5de430846)查看
+
